@@ -13,3 +13,7 @@
 11. [Binary Tree from Inorder and Preorder traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/description/). ```Trees/inorder-preorder.py```
 #### Graphs
 1. [DFS](https://practice.geeksforgeeks.org/problems/depth-first-traversal-for-a-graph/1?utm_source=geeksforgeeks&utm_medium=article_practice_tab&utm_campaign=article_practice_tab). ```Graphs/dfs.py```
+2. [BFS](https://practice.geeksforgeeks.org/problems/bfs-traversal-of-graph/1?utm_source=geeksforgeeks&utm_medium=ml_article_practice_tab&utm_campaign=article_practice_tab). ```Graphs/bfs.py``` 
+3. [Number of provinces](https://leetcode.com/problems/number-of-provinces/description/). ```Graphs/province.py```
+4. [Detect cycle in undirected graph](https://practice.geeksforgeeks.org/problems/detect-cycle-in-an-undirected-graph/1?utm_source=geeksforgeeks&utm_medium=article_practice_tab&utm_campaign=article_practice_tab). ```Graphs/cycle-undirected.py```
+5. [01 Matrix](https://leetcode.com/problems/01-matrix/description/). ```Graphs/01matrix.py```
