@@ -17,3 +17,5 @@
 3. [Number of provinces](https://leetcode.com/problems/number-of-provinces/description/). ```Graphs/province.py```
 4. [Detect cycle in undirected graph](https://practice.geeksforgeeks.org/problems/detect-cycle-in-an-undirected-graph/1?utm_source=geeksforgeeks&utm_medium=article_practice_tab&utm_campaign=article_practice_tab). ```Graphs/cycle-undirected.py```
 5. [01 Matrix](https://leetcode.com/problems/01-matrix/description/). ```Graphs/01matrix.py```
+6. [Surrounded Regions](https://leetcode.com/problems/surrounded-regions/description/). ```Graps/surrounded-regions.py```
+7. [Number of Enclaves](https://leetcode.com/problems/number-of-enclaves/description/). ```Graphs/num-of-enclaves.py```
