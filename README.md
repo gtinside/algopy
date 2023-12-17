@@ -19,3 +19,4 @@
 5. [01 Matrix](https://leetcode.com/problems/01-matrix/description/). ```Graphs/01matrix.py```
 6. [Surrounded Regions](https://leetcode.com/problems/surrounded-regions/description/). ```Graps/surrounded-regions.py```
 7. [Number of Enclaves](https://leetcode.com/problems/number-of-enclaves/description/). ```Graphs/num-of-enclaves.py```
+8. [Number of Islands](https://leetcode.com/problems/number-of-islands/submissions/). ```Graphs/num-of-islands.py```
