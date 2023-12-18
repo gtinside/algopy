@@ -20,3 +20,6 @@
 6. [Surrounded Regions](https://leetcode.com/problems/surrounded-regions/description/). ```Graps/surrounded-regions.py```
 7. [Number of Enclaves](https://leetcode.com/problems/number-of-enclaves/description/). ```Graphs/num-of-enclaves.py```
 8. [Number of Islands](https://leetcode.com/problems/number-of-islands/submissions/). ```Graphs/num-of-islands.py```
+9. [Minimum Knight Moves](https://leetcode.com/problems/minimum-knight-moves/description/). ```Graphs/min-knight-moves.py```
+#### Dynamic Programming
+1. [Longest Non-decreasing Subarray From Two Arrays](https://leetcode.com/problems/longest-non-decreasing-subarray-from-two-arrays/). ```DP/non-decreasing-subarr.py```
