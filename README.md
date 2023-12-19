@@ -24,5 +24,7 @@
 #### Dynamic Programming
 1. [Longest Non-decreasing Subarray From Two Arrays](https://leetcode.com/problems/longest-non-decreasing-subarray-from-two-arrays/). ```DP/non-decreasing-subarr.py```
 2. [Delete and Earn](https://leetcode.com/problems/delete-and-earn/description/). ```DP/delete-and-earn.py```
+3. [Count Ways To Build Good Strings](https://leetcode.com/problems/count-ways-to-build-good-strings/description/). ```DP/count-ways.py```
+4. [Knight Probability in Chessboard](https://leetcode.com/problems/knight-probability-in-chessboard/description/). ```DP/knight-probability.py```
 #### Arrays
 1. [Minimum Equal Sum of Two Arrays After Replacing Zeros](https://leetcode.com/problems/minimum-equal-sum-of-two-arrays-after-replacing-zeros/description/). ```Arrays/min-equal-sum.py```
