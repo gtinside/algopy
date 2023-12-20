@@ -30,5 +30,6 @@
 #### Arrays
 1. [Minimum Equal Sum of Two Arrays After Replacing Zeros](https://leetcode.com/problems/minimum-equal-sum-of-two-arrays-after-replacing-zeros/description/). ```Arrays/min-equal-sum.py```
 2. [Subarray Sums Divisible by K](https://leetcode.com/problems/subarray-sums-divisible-by-k/). ```Arrays/subarray-sum-divisible-by-k.py```
+3. [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/description/). ```Arrays/find-duplicate-number.py```
 #### Stack
 1. [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/). ```Stack\reverse-polish-notation.py```
