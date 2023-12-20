@@ -21,6 +21,7 @@
 7. [Number of Enclaves](https://leetcode.com/problems/number-of-enclaves/description/). ```Graphs/num-of-enclaves.py```
 8. [Number of Islands](https://leetcode.com/problems/number-of-islands/submissions/). ```Graphs/num-of-islands.py```
 9. [Minimum Knight Moves](https://leetcode.com/problems/minimum-knight-moves/description/). ```Graphs/min-knight-moves.py```
+10. [Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/description/). ```Graphs/min-height-trees.py```
 #### Dynamic Programming
 1. [Longest Non-decreasing Subarray From Two Arrays](https://leetcode.com/problems/longest-non-decreasing-subarray-from-two-arrays/). ```DP/non-decreasing-subarr.py```
 2. [Delete and Earn](https://leetcode.com/problems/delete-and-earn/description/). ```DP/delete-and-earn.py```
@@ -28,3 +29,4 @@
 4. [Knight Probability in Chessboard](https://leetcode.com/problems/knight-probability-in-chessboard/description/). ```DP/knight-probability.py```
 #### Arrays
 1. [Minimum Equal Sum of Two Arrays After Replacing Zeros](https://leetcode.com/problems/minimum-equal-sum-of-two-arrays-after-replacing-zeros/description/). ```Arrays/min-equal-sum.py```
+2. [Subarray Sums Divisible by K](https://leetcode.com/problems/subarray-sums-divisible-by-k/). ```Arrays/subarray-sum-divisible-by-k.py```
