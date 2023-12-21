@@ -33,3 +33,5 @@
 3. [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/description/). ```Arrays/find-duplicate-number.py```
 #### Stack
 1. [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/). ```Stack\reverse-polish-notation.py```
+#### Linked List
+1. [LRU Cache](https://leetcode.com/problems/lru-cache/description/). ```LinkedLists\lru-cache.py```
