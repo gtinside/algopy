@@ -27,12 +27,14 @@
 2. [Delete and Earn](https://leetcode.com/problems/delete-and-earn/description/). ```DP/delete-and-earn.py```
 3. [Count Ways To Build Good Strings](https://leetcode.com/problems/count-ways-to-build-good-strings/description/). ```DP/count-ways.py```
 4. [Knight Probability in Chessboard](https://leetcode.com/problems/knight-probability-in-chessboard/description/). ```DP/knight-probability.py```
-5. [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/). ```DP\best-time-buy-sell2.py```
+5. [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/). ```DP/best-time-buy-sell2.py```
+6. [House Robber](https://leetcode.com/problems/house-robber/description/). ```DP/house-robber.py```
 #### Arrays
 1. [Minimum Equal Sum of Two Arrays After Replacing Zeros](https://leetcode.com/problems/minimum-equal-sum-of-two-arrays-after-replacing-zeros/description/). ```Arrays/min-equal-sum.py```
 2. [Subarray Sums Divisible by K](https://leetcode.com/problems/subarray-sums-divisible-by-k/). ```Arrays/subarray-sum-divisible-by-k.py```
 3. [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/description/). ```Arrays/find-duplicate-number.py```
 #### Stack
-1. [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/). ```Stack\reverse-polish-notation.py```
+1. [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/). ```Stack/reverse-polish-notation.py```
+2. [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/description/).```Stack/randomized-set.py```
 #### Linked List
-1. [LRU Cache](https://leetcode.com/problems/lru-cache/description/). ```LinkedLists\lru-cache.py```
+1. [LRU Cache](https://leetcode.com/problems/lru-cache/description/). ```LinkedLists/lru-cache.py```
