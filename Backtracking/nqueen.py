@@ -35,5 +35,6 @@ class Solution:
         
 
 print(Solution().solveNQueens(4))
+print(Solution().solveNQueens(10))
         
             
