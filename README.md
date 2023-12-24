@@ -42,3 +42,5 @@
 2. [LFU Cache](https://leetcode.com/problems/lfu-cache/description/). ```LinkedLists/lfu-cache.py```
 #### Backtracking
 1. [N-Queens](https://leetcode.com/problems/n-queens/description/). ```Backtracking/nqueen.py```
+#### Sliding Window
+1. [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/description/). ```Sliding Window/sliding-window-max.py```
