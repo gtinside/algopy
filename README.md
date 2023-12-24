@@ -40,3 +40,5 @@
 #### Linked List
 1. [LRU Cache](https://leetcode.com/problems/lru-cache/description/). ```LinkedLists/lru-cache.py```
 2. [LFU Cache](https://leetcode.com/problems/lfu-cache/description/). ```LinkedLists/lfu-cache.py```
+#### Backtracking
+1. [N-Queens](https://leetcode.com/problems/n-queens/description/). ```Backtracking/nqueen.py```
