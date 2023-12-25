@@ -12,6 +12,7 @@
 10. [Kth smallest element](https://leetcode.com/problems/kth-smallest-element-in-a-bst/description/). ```Trees/ksmallest-element.py```
 11. [Binary Tree from Inorder and Preorder traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/description/). ```Trees/inorder-preorder.py```
 12. [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/description/). ```Trees/max-path-sum.py```
+13. [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/description/). ```Trees/ser-deser-btree.py```
 #### Graphs
 1. [DFS](https://practice.geeksforgeeks.org/problems/depth-first-traversal-for-a-graph/1?utm_source=geeksforgeeks&utm_medium=article_practice_tab&utm_campaign=article_practice_tab). ```Graphs/dfs.py```
 2. [BFS](https://practice.geeksforgeeks.org/problems/bfs-traversal-of-graph/1?utm_source=geeksforgeeks&utm_medium=ml_article_practice_tab&utm_campaign=article_practice_tab). ```Graphs/bfs.py``` 
